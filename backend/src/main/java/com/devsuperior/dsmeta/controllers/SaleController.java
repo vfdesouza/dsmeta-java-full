@@ -1,7 +1,7 @@
-package com.devsuperior.dsmeta.config.controllers;
+package com.devsuperior.dsmeta.controllers;
 
-import com.devsuperior.dsmeta.config.services.SMSService;
-import com.devsuperior.dsmeta.config.services.SaleService;
+import com.devsuperior.dsmeta.services.SMSService;
+import com.devsuperior.dsmeta.services.SaleService;
 import com.devsuperior.dsmeta.entities.Sale;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;

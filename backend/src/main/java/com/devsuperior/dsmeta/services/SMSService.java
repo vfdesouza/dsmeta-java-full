@@ -1,6 +1,6 @@
-package com.devsuperior.dsmeta.config.services;
+package com.devsuperior.dsmeta.services;
 
-import com.devsuperior.dsmeta.config.repositories.SaleRepository;
+import com.devsuperior.dsmeta.repositories.SaleRepository;
 import com.devsuperior.dsmeta.entities.Sale;
 import com.twilio.Twilio;
 import com.twilio.rest.api.v2010.account.Message;
