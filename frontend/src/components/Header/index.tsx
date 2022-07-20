@@ -8,8 +8,9 @@ function Hearder() {
                 <img src={logo} alt="DSMeta" />
                 <h1>DSMeta</h1>
                 <p>
-                    Desenvolvido por
-                    <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
+                    Projeto didático, desenvolvido em parceria com a 
+                    <a href="https://www.instagram.com/devsuperior.ig"> @devsuperior.ig</a>
+                     na Semana Spring React - 07/2022
                 </p>
             </div>
         </header>
